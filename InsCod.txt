@@ -1,0 +1,19 @@
+INS_COD	NOMBRE
+1	Chile
+9	Internacional
+12	Estado
+14	Scotiabank 
+16	BCI
+28	Bice 
+31	HSBC
+37	Santander
+39	Itaú
+41	JP Morgan
+49	Security
+51	Falabella
+53	Ripley
+55	Consorcio
+59	BTG Pactual
+60	CCB
+61	BOC
+999	Sistema Bancario
